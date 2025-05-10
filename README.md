@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ilham Hatta Manggala and I'm a Informatics Engineering Student, from Tegal Regency</h2>
+<h2 align="left">Hi 👋! My name is Ilham Hatta Manggala and I'm a Informatics Engineering Student 🎓, from Tegal Regency 🌍</h2>
 
 ###
 
