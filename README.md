@@ -4,6 +4,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats-eta-three-81.vercel.app/api/top-langs?username=IlhamHattaManggala&layout=compact&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy-nu-murex.vercel.app/?username=IlhamHattaManggala" alt="IlhamHattaManggala" />
 </div>
 
 ###
